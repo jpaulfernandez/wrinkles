@@ -19,34 +19,34 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Paul Fernandez                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Sharing random thoughts    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A blog site where Paul Fernandez dump random thoughts mostly tech, gaming but can be anything.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://paulfernandez.dev'
 
 github:
-  username: github_username             # change to your github username
+  username: jpaulfernandez             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: winterramen            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Paul Fernandez
+  email: jpaul.fernandez18@gmail.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/winterramen      # change to your twitter homepage
+    - https://github.com/jpaulfernandez       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jpaulfernandez
 
 google_site_verification:               # fill in to your verification string
 
@@ -54,7 +54,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: G-VD86FZKCN1 # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -71,7 +71,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark  # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://uploads-ssl.webflow.com/631f38c5bfd267823908ea5d/636885b41a07d73f677ef60e_d7b70494-d197-417e-9e58-7496f2b26978-profile_image-600x600.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
