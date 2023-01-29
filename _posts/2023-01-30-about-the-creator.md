@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: post
+title: About the Creator
+date: 2023-01-30 00:29 +0800
+categories: [life, personal]
+tags: [personal, blog, paul]
 img_path: /assets/img/
+pin: true
 ---
 
 ![Avatar](/avatar.png){: .left}
@@ -23,6 +26,7 @@ I am not a writer and english is not my native language, so let me know if you s
 
 Just anything tbh. This is a brain dump. You may go to [home](https://paulfernandez.dev) to view all the latest post, or explore content via categories and tags. 
 
+For accountability, I will try to post atleast once a month. 
 
 ## Contact
 
