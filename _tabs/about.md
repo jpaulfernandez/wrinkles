@@ -27,3 +27,5 @@ Just anything tbh. This is a brain dump. You may go to [home](https://paulfernan
 ## Contact
 
 If you want to contact me, you can email me at jpaul.fernandez18@gmail.com
+
+*Avatar created by [Janina Malinis](https://janinamalinis.wixsite.com/home)

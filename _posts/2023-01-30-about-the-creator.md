@@ -2,8 +2,8 @@
 layout: post
 title: About the Creator
 date: 2023-01-30 00:29 +0800
-categories: [life, personal]
-tags: [personal, blog, paul]
+categories: [life]
+tags: [personal]
 img_path: /assets/img/
 pin: true
 ---
@@ -31,3 +31,7 @@ For accountability, I will try to post atleast once a month.
 ## Contact
 
 If you want to contact me, you can email me at jpaul.fernandez18@gmail.com
+
+
+*Avatar created by [Janina Malinis](https://janinamalinis.wixsite.com/home)
+
