@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I turned myself into a morning person
+title: I Turned Myself Into a Morning Person
 date: 2023-02-03 07:06 +0800
 categories: [life]
 tags: [personal, night owl, morning person, valorant, sleep problems]
