@@ -2,9 +2,12 @@
 layout: post
 title: 'Week1: Seven Days After Quitting Social Media'
 date: 2023-02-09 16:03 +0800
+img_path: /assets/img/
+categories: [life]
+tags: [personal, social media, habits]
 ---
 
-![Social Media Monster](https://media.discordapp.net/attachments/1021171442739585055/1073153455688007690/Winter_social_media_monster_d1e4f3c0-6457-48ab-a302-b6af0bb9810d.png?width=670&height=670)
+![Social Media Monster](/socialmediamonster.png)
 
 It’s been forever since I told myself that I need to quit or atleast manage my social media consumption. I feel like being on these platforms isn’t doing any good to me. I became a passive, brainless consumer with an attention span of less than a tik tok video.
 
