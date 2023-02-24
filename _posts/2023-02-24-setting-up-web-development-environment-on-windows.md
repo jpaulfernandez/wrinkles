@@ -9,9 +9,7 @@ tags: [web development, node, windows, linux, wsl]
 
 I've been developing on a mac ever since I started working professionally, however resigning from my last job forced me to use my gaming pc instead after I surrendered my macbook to my company. Switching from macos web development environment to windows maybe pain in the ass, but luckily, windows 11 already introduced WSL which you can install and allow you to run linux environment without having a separate virtual machine. 
 
-Here's how I prepared my PC for web development.
-
-You might opt to go to a tradional route, or just use docker. But here how I set up my windows11 for web development.
+You might opt to go to a tradional route, or just use docker. But here how I set up my PC running on windows11 for web development.
 
 # Installing WSL 2
 
@@ -41,14 +39,14 @@ For easy access on files inside your ubuntu drive, you may want to map it as a n
 
 1. First, open you file explorer and locate the linux folder
 
-![[Pasted image 20230224161459.png]]
+![screenshot](/Pasted_image_20230224161459.png)
 
 2. Right click, and select map to network drive (if you don't see the option, just click see more options)
 
-![[Pasted image 20230224161621.png]]
+![screenshot](/Pasted_image_20230224161621.png)
 
 3. You should see the ubuntu as a network drive in "This PC"
-![[Pasted image 20230224161704.png]]
+![screenshot](/Pasted_image_20230224161704.png)
 
 # Setting up Linux for Web Development
 
@@ -58,9 +56,9 @@ I'm using the preinstalled `terminal` application as my console choice. This is 
 
 Because we'll be primarily working on Ubuntu profile, i will set the default profile and default terminal application to `Ubuntu` and `windows terminal`
 
-![[Pasted image 20230224162401.png]]
+![screenshot](/Pasted_image_20230224162401.png)
 
-## Install Brew
+# Install Brew
 
 I use brew as my package manager of choice. Install brew by running this command
 
@@ -81,7 +79,7 @@ And also it is recommended to install build-essentials
 sudo apt-get install build-essential
 ```
 
-## Install ZSH
+# Install ZSH
 
 ZSH or Z Shell is my scripting language of choice, it adds more functionalities on shell and allows plugins.
 
@@ -89,7 +87,7 @@ ZSH or Z Shell is my scripting language of choice, it adds more functionalities 
 sudo apt install zsh
 ```
 
-## Installing Oh My ZSH
+# Install Oh My ZSH
 
 OhMyZSH is my favorite plugin of zsh, installing omz includes several bundled themes and helpers already. Install omz by running this command
 
@@ -121,11 +119,11 @@ Color scheme: Solarized Dark
 Font Face: `Meslo LG S DZ for Powerline`
 Font Size: 10
 
-![[Pasted image 20230224171225.png]]
+![screenshot](/Pasted_image_20230224171225.png)
 
 After restarting the terminal, your terminal should look like this
 
-![[Pasted image 20230224171329.png]]
+![screenshot](/Pasted_image_20230224171329.png)
 
 The other two plugins that I'd like to install is zsh autosuggestions and zsh syntax highlighting
 
@@ -147,7 +145,7 @@ Add the plugins in `.zshrc` via nano or vim
 plugins=(git zsh-autosuggestions zsh-syntax-highlighting)
 ```
 
-## Install Git
+# Install Git
 
 To install git, run this following command
 
@@ -175,7 +173,7 @@ Git Username
 git config --global user.username "username"
 ```
 
-## Install Node
+# Install Node
 
 To install node, I'd like to use node version manager so that I can switch out versions also. To do that, run the following command
 
