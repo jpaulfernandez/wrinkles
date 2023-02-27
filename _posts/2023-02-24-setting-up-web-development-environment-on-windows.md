@@ -7,6 +7,8 @@ categories: [technology]
 tags: [web development, node, windows, linux, wsl]
 ---
 
+![featuredimage](https://www.techspot.com/images2/news/bigimage/2022/11/2022-11-23-image-15.jpg)
+
 I've been developing on a mac ever since I started working professionally, however resigning from my last job forced me to use my gaming pc instead after I surrendered my macbook to my company. Switching from macos web development environment to windows maybe pain in the ass, but luckily, windows 11 already introduced WSL which you can install and allow you to run linux environment without having a separate virtual machine. 
 
 You might opt to go to a tradional route, or just use docker. But here how I set up my PC running on windows11 for web development.
