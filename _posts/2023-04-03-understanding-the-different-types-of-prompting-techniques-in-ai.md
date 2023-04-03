@@ -2,6 +2,7 @@
 layout: post
 title: Understanding the Different Types of Prompting Techniques in AI
 date: 2023-04-03 21:05 +0800
+image: /sb.jpg
 img_path: /assets/img/
 categories: [technology]
 tags: [prompting, artificial intelligence, chatgpt, large language models, transformers, text generation, conversational ai]
