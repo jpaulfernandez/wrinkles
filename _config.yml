@@ -19,6 +19,11 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+#plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 title: Paul Fernandez                          # the main title
 
 tagline: Sharing random thoughts    # it will display as the sub-title
@@ -198,3 +203,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+feed:
+  post_limit: 10
